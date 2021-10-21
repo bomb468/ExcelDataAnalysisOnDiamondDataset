@@ -167,6 +167,7 @@ It does Look Like The Order of Prices in Cut Varies Due to its Shape.
 ![image](https://user-images.githubusercontent.com/72384743/138258150-02286f41-74e7-458c-a640-d9e3397ca884.png)
 
 Although the Avg Carots Have a Varying Range of 0.6-1.3, the Avg Prices Have a Varying Range of 2750-3500(I expected it to be more).
+
 Even the Order of Prices is Different from the Carot.
 I also Compared Color with Shape.
 | correct | Marquise | Pear     | Round   | Heart    | Princess | Oval     | Emerald  | Radiant | Cushion | Asscher |
@@ -207,6 +208,7 @@ It Looks Like The Color Affects the Price Order of the Cut More than the Shape b
 ![image](https://user-images.githubusercontent.com/72384743/138264386-79d5e345-de8a-4f8f-b5eb-7997337dac34.png)
 
 The Order of Avg Carot is Different in every place except FL which has the lowest count, highest Avg Carot and highest Avg Price.
+
 I also Compared Clarity with shape.
 | correct | Marquise | Pear     | Round    | Heart    | Princess | Oval     | Emerald  | Radiant | Cushion  | Asscher  |
 | ------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ------- | -------- | -------- |
@@ -255,6 +257,7 @@ Shape, Cut and Color all Affect the order of Avg Prices of Clarity.
 ![image](https://user-images.githubusercontent.com/72384743/138266757-1ab1c257-e2f1-4fb3-ad82-9a691fe66f5d.png)
 
 GIA and HRD Do not follow the Avg Carrot Trend.
+
 As Before, I compared Report with shape.
 | correct | Marquise | Pear     | Round   | Heart | Princess | Oval     | Emerald  | Radiant | Cushion | Asscher |
 | ------- | -------- | -------- | ------- | ----- | -------- | -------- | -------- | ------- | ------- | ------- |
@@ -349,6 +352,7 @@ Nothing We haven't seen before, Type also Affects Orders of Every other non-nume
 ![image](https://user-images.githubusercontent.com/72384743/138270476-6d38b39c-ed4f-4302-b28e-1fee0e1cdad8.png)
 
 Most of the Data is Between 1000-3500 Range. Many Outliers.
+
 Analysis of Each Column is Done and Here are Some Extra Statistics to Look at:
 | Avg Prices of | Have Range of |
 | ------------- | ------------- |
